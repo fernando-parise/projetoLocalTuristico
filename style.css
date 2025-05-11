@@ -32,8 +32,6 @@ body * {
 
 #page {
   box-sizing: border-box;
-  width: 1280px;
-  padding: 24px;
   background-color: var(--backgourd);
   margin: 0;
   padding: 20px 70px 20px 70px; 
