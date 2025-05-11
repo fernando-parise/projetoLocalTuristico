@@ -19,7 +19,7 @@
   --accent-pink:##E5245E;
   --accent-purple:#591B98;
   max-width: 1280px;
-  background-color: var(--text-primary)
+  background-color: var(--text-primary);
 }
 
 body {
