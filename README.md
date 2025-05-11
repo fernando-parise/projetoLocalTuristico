@@ -1,4 +1,4 @@
-<h1 align="center"> Págida de Receita </h1>
+<h1 align="center"> Págida de Local Turístico </h1>
 
 <p align="center">
 Programa exclusivo, promovido pela Rocketseat para ensino de tecnologias WEB. <br/>
