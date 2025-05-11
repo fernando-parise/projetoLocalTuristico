@@ -36,7 +36,7 @@ body * {
   padding: 24px;
   background-color: var(--backgourd);
   margin: 0;
-  padding: 50px 50px 40px 40px; 
+  padding: 20px 70px 20px 70px; 
 }
 
 img {
@@ -64,7 +64,8 @@ h1 {
 }
 
 h2 {
-  font-size: 32px; 
+  font-size: 28px; 
+  padding-top: 24px;
 }
 
 h3 {
@@ -76,6 +77,7 @@ h3 {
   font-style: italic;
   font-size: 16px;  
   padding-bottom: 24px;
+  color: var(--text-primary);
 }
 
 .divider {
